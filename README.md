@@ -1,3 +1,7 @@
+This is all credit to Jami Gibbs, who created this template on Jekyll.com. 
+The original README is as follows below:
+
+
 ## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
